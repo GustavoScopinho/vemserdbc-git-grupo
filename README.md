@@ -1,5 +1,4 @@
 # vemserdbc-git-grupo
 
-#VemSerDBC-gustavo-scopinho
-
+#VemSerDBC-Gustavo-Scopinho!
 #VemSerDBC-jean-jardim
